@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code / IDE folders
+.vscode/
+.idea/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled files
+*.so
+*.o
+*.out
+
+# Backup or temp files
+*~
+*.bak
+*.tmp
+
+# pyenv
+.python-version
